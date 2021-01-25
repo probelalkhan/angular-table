@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "AngularTable"
+  "defaultProject": "AngularTable",
+  "cli": {
+    "analytics": "f10f1be4-e8ac-4f8a-adec-c08f47e29c28"
+  }
 }
